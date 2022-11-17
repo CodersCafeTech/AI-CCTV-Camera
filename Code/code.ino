@@ -5,7 +5,7 @@
 #include "TelegramChat.h"
 
 #define WIFI_SSID "DARKMATTER"
-#define WIFI_PASS "8848191317"
+#define WIFI_PASS "xxxxxxxxxx"
 
 #define USER_TOKEN "vxQ3IAW3JAisAXul7tcc9UOjx60Bxxxx"
 #define DEVICE_TOKEN "UnsaA0bYOaklxxxx"
